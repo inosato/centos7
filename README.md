@@ -1,1 +1,1 @@
-# docker-centos7
+# docker-ubuntu
